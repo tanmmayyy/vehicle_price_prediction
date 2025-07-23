@@ -1,0 +1,946 @@
+make,model,price,fuel,transmission,trim,drivetrain,car_age
+Jeep,Wagoneer,74600.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Jeep,Grand Cherokee,50170.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+GMC,Yukon XL,96410.0,Gasoline,Automatic,Denali,Four-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+RAM,3500,81663.0,Diesel,6-Speed Automatic,Laramie,Four-wheel Drive,1
+Nissan,Murano,46000.0,Gasoline,Automatic CVT,Platinum,All-wheel Drive,1
+Jeep,Wagoneer,63862.0,Gasoline,8-Speed Automatic,Base,Rear-wheel Drive,1
+Ford,F-350,89978.0,Diesel,1-Speed Automatic,Lariat Super Duty,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,42230.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+Jeep,Grand Cherokee,42773.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Jeep,Compass,37743.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+RAM,3500,60904.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Hyundai,Santa Cruz,43419.0,Gasoline,8-Speed Automatic,2.5T Limited,All-wheel Drive,1
+Jeep,Grand Cherokee,44022.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Chevrolet,Blazer EV,51695.0,Electric,1-Speed Automatic,2LT,All-wheel Drive,1
+Hyundai,Santa Cruz,38574.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+Nissan,Murano,48000.0,Gasoline,Automatic CVT,Platinum,All-wheel Drive,1
+Ford,Explorer,53190.0,Gasoline,1-Speed Automatic,Timberline,Four-wheel Drive,1
+Volkswagen,Taos,32751.0,Gasoline,7-Speed Automatic,1.5T SE,All-wheel Drive,1
+Volkswagen,Jetta,24348.0,Gasoline,8-Speed Automatic,1.4T S,Front-wheel Drive,1
+RAM,3500,65221.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Dodge,Hornet,39491.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Hyundai,Tucson,30305.0,Gasoline,8-Speed Automatic,SEL,Front-wheel Drive,1
+GMC,Terrain,44120.0,Gasoline,Automatic,Denali,All-wheel Drive,1
+Hyundai,Santa Cruz,33160.0,Gasoline,8-Speed Automatic,2.5L SEL,All-wheel Drive,1
+Ford,Explorer,40940.0,Gasoline,1-Speed Automatic,XLT,Rear-wheel Drive,1
+Jeep,Compass,34084.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Chrysler,Pacifica,48705.0,Gasoline,9-Speed Automatic,Touring-L,All-wheel Drive,1
+Chevrolet,Blazer EV,52190.0,Electric,1-Speed Automatic,2LT,All-wheel Drive,1
+RAM,2500,58855.0,Gasoline,Automatic,Tradesman,Four-wheel Drive,1
+Nissan,Murano,39867.0,Gasoline,Automatic CVT,SV,Front-wheel Drive,1
+Ford,Transit-250,53595.0,E85 Flex Fuel,Automatic,148 WB Medium Roof Cargo,Rear-wheel Drive,1
+Jeep,Grand Cherokee 4xe,59547.0,Hybrid,8-Speed Automatic,Trailhawk,Four-wheel Drive,2
+Kia,EV6,49820.0,Electric,Automatic,GT,All-wheel Drive,1
+Volkswagen,Jetta,27175.0,Gasoline,8-Speed Automatic,1.4T SE,Front-wheel Drive,1
+Ford,Mustang Mach-E,47790.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Chevrolet,Silverado 1500,58610.0,Gasoline,Automatic,RST,Four-wheel Drive,1
+Kia,Seltos,29640.0,Gasoline,Automatic CVT,EX,All-wheel Drive,1
+Chevrolet,Blazer,43727.0,Gasoline,9-Speed Automatic,3LT,All-wheel Drive,1
+GMC,Terrain,35870.0,Gasoline,Automatic,SLE,All-wheel Drive,1
+RAM,3500,64670.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Jeep,Wrangler,46973.0,Gasoline,Automatic,Sport S,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,54905.0,Hybrid,8-Speed Automatic,Trailhawk,Four-wheel Drive,1
+Mazda,CX-90 PHEV,50915.0,Hybrid,8-Speed Automatic,Preferred,All-wheel Drive,1
+Acura,MDX,65595.0,Gasoline,1-Speed Automatic,Advance,All-wheel Drive,1
+Jeep,Compass,28860.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Subaru,Outback,44354.0,Gasoline,Automatic CVT,Wilderness,All-wheel Drive,1
+Volkswagen,Atlas Cross Sport,51721.0,Gasoline,8-Speed Automatic,2.0T SEL,All-wheel Drive,1
+Hyundai,IONIQ 5,44195.0,Electric,1-Speed Automatic,SE Standard Range,Rear-wheel Drive,1
+Audi,Q8 e-tron,86670.0,Electric,Automatic,S line Premium,All-wheel Drive,1
+Volkswagen,Jetta,24348.0,Gasoline,8-Speed Automatic,1.4T S,Front-wheel Drive,1
+Hyundai,Sonata Hybrid,38870.0,Hybrid,6-Speed Automatic,Limited,Front-wheel Drive,1
+Kia,EV9,52388.0,Electric,1-Speed Automatic,Light Long Range,Rear-wheel Drive,1
+Dodge,Durango,58709.0,Gasoline,8-Speed Automatic,R/T,All-wheel Drive,1
+Dodge,Hornet,42855.0,Gasoline,6-Speed Automatic,R/T EAWD,All-wheel Drive,1
+Dodge,Hornet,34990.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Kia,Sportage Hybrid,34835.0,Hybrid,Automatic,EX,All-wheel Drive,1
+Ford,Expedition,69955.0,Gasoline,1-Speed Automatic,XLT,Four-wheel Drive,1
+Dodge,Hornet,39581.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Volkswagen,Atlas,49166.0,Gasoline,8-Speed Automatic,2.0T Peak Edition SE w/Technology,All-wheel Drive,1
+Hyundai,IONIQ 5,55365.0,Electric,1-Speed Automatic,Limited,Rear-wheel Drive,1
+Jeep,Grand Cherokee L,51360.0,Gasoline,8-Speed Automatic,Limited,Rear-wheel Drive,1
+Hyundai,Tucson,40474.0,Gasoline,Automatic,Limited,All-wheel Drive,1
+BMW,X7,89450.0,Gasoline,8-Speed Automatic,xDrive40i,All-wheel Drive,1
+Jeep,Compass,28860.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Toyota,Tundra Hybrid,62341.0,Hybrid,1-Speed Automatic,Limited,Four-wheel Drive,1
+Hyundai,IONIQ 5,42015.0,Electric,1-Speed Automatic,SE,All-wheel Drive,1
+Nissan,Kicks,24500.0,Gasoline,CVT,SV,Front-wheel Drive,1
+Buick,Envista,27075.0,Gasoline,6-Speed Automatic,Preferred,Front-wheel Drive,1
+Acura,MDX,51645.0,Gasoline,1-Speed Automatic,Base,Front-wheel Drive,1
+Nissan,Rogue,35975.0,Gasoline,Automatic,SV,All-wheel Drive,1
+Jeep,Wagoneer,63057.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+Nissan,Rogue,36405.0,Gasoline,Automatic,SV,All-wheel Drive,1
+Jeep,Wagoneer L,86137.0,Gasoline,Automatic,Series II Carbide 4x4,Four-wheel Drive,1
+Kia,Sportage,27969.0,Gasoline,8-Speed Automatic,S,Front-wheel Drive,1
+Acura,MDX,51645.0,Gasoline,1-Speed Automatic,Base,Front-wheel Drive,1
+RAM,3500,63223.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Dodge,Durango,47785.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Nissan,Murano,46000.0,Gasoline,Automatic CVT,Platinum,All-wheel Drive,1
+Nissan,Rogue,41180.0,Gasoline,Automatic,SL,All-wheel Drive,1
+Dodge,Hornet,44720.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Jeep,Grand Cherokee L,49390.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Compass,28860.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Mercedes-Benz,EQE 350+,76535.0,Electric,1-Speed Automatic,Base,Rear-wheel Drive,1
+Buick,Envista,31805.0,Gasoline,6-Speed Automatic,Avenir,Front-wheel Drive,1
+Dodge,Durango,44160.0,Gasoline,8-Speed Automatic,GT,Rear-wheel Drive,1
+Hyundai,Sonata,28469.0,Gasoline,8-Speed Automatic,SEL,All-wheel Drive,1
+RAM,3500,58930.0,Diesel,6-Speed Automatic,Tradesman,Four-wheel Drive,1
+GMC,Terrain,35236.0,Gasoline,9-Speed Automatic,SLT,All-wheel Drive,1
+Jeep,Wagoneer,60555.0,Gasoline,8-Speed Automatic,Base,Rear-wheel Drive,1
+Ford,Ranger,38740.0,Gasoline,1-Speed Automatic,XL,Four-wheel Drive,1
+Audi,SQ5,0.0,Gasoline,Automatic,Premium Plus,All-wheel Drive,1
+RAM,3500,66334.0,Diesel,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Audi,Q5 e,73020.0,Gasoline,7-Speed Automatic,55 Premium Plus,All-wheel Drive,1
+RAM,3500,89555.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+RAM,3500,65315.0,Diesel,6-Speed Automatic,Tradesman,Four-wheel Drive,1
+Mazda,CX-90 PHEV,58599.0,PHEV Hybrid Fuel,Automatic,Premium Plus,All-wheel Drive,1
+Ford,Mustang Mach-E,50473.0,Electric,1-Speed Automatic,GT,All-wheel Drive,2
+Dodge,Hornet,47234.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Chevrolet,Silverado 1500,44161.0,Gasoline,8-Speed Automatic,Custom,Four-wheel Drive,1
+Chevrolet,Silverado 1500,49496.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Chevrolet,Silverado 1500,43475.0,Gasoline,Automatic,WT,Four-wheel Drive,1
+Dodge,Charger,36083.0,Gasoline,8-Speed Automatic,SXT,Rear-wheel Drive,2
+Chevrolet,Silverado 1500,54559.0,Gasoline,Automatic,RST,Four-wheel Drive,1
+Mercedes-Benz,Sprinter 2500,60061.0,Diesel,9-Speed Automatic,Standard Roof,Rear-wheel Drive,1
+Jeep,Compass,28867.0,Gasoline,Automatic,Latitude,Four-wheel Drive,1
+Honda,CR-V Hybrid,42005.0,Hybrid,Automatic CVT,Sport Touring,All-wheel Drive,1
+Hyundai,IONIQ 6,45005.0,Electric,Automatic,SEL,Rear-wheel Drive,1
+Hyundai,Tucson Hybrid,35864.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Jeep,Compass,30000.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,2
+Kia,Sportage,34000.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Jeep,Compass,29342.0,Gasoline,Automatic,Sport,Four-wheel Drive,1
+Ford,Transit-150,55645.0,E85 Flex Fuel,1-Speed Automatic,Base,All-wheel Drive,1
+Audi,Q8 e-tron,83630.0,Electric,Automatic,Premium,All-wheel Drive,1
+Jeep,Wrangler,59456.0,Gasoline,Automatic,4-Door Sahara 4x4,Four-wheel Drive,1
+Jeep,Grand Cherokee,39714.0,Gasoline,Automatic,Laredo,Four-wheel Drive,1
+Chevrolet,Silverado 1500,49628.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,33089.0,Hybrid,6-Speed Automatic,Blue,All-wheel Drive,1
+Mercedes-Benz,EQE 350+,79765.0,Electric,1-Speed Automatic,Base,Rear-wheel Drive,1
+Dodge,Charger,65075.0,Gasoline,8-Speed Automatic,Scat Pack,Rear-wheel Drive,2
+Jeep,Compass,38980.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Hyundai,Santa Fe,49905.0,Gasoline,Automatic,Calligraphy,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,58235.0,Gasoline,Automatic,4x4,Four-wheel Drive,1
+Volkswagen,Taos,27998.0,Gasoline,4-Speed Automatic,1.5T SE,All-wheel Drive,1
+Chevrolet,Equinox,25515.0,Gasoline,6-Speed Automatic,LS,Front-wheel Drive,1
+Jeep,Wrangler 4xe,66960.0,Hybrid,8-Speed Automatic,Rubicon,Four-wheel Drive,1
+Mazda,CX-90 PHEV,53395.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Hyundai,IONIQ 5,61775.0,Electric,Automatic,Disney100 Platinum Edition,All-wheel Drive,1
+RAM,ProMaster 2500,53272.0,Gasoline,9-Speed Automatic,High Roof,Front-wheel Drive,1
+Lincoln,Corsair,51361.0,Gasoline,8-Speed Automatic,Reserve,All-wheel Drive,1
+GMC,Savana 2500,44595.0,Gasoline,Automatic,Work Van,Rear-wheel Drive,1
+Chrysler,Pacifica Hybrid,60600.0,Hybrid,Automatic CVT,Select,Front-wheel Drive,1
+Dodge,Hornet,38575.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Acura,ZDX,69850.0,Electric,Automatic,A-SPEC,All-wheel Drive,1
+Nissan,Altima,31225.0,Gasoline,Automatic CVT,2.5 SV,Front-wheel Drive,1
+Hyundai,Sonata Hybrid,32520.0,Hybrid,6-Speed Automatic,SEL,Front-wheel Drive,1
+Dodge,Charger,35821.0,Gasoline,8-Speed Automatic,SXT,Rear-wheel Drive,2
+Mazda,CX-90 PHEV,60200.0,Gasoline,Automatic,Base,All-wheel Drive,1
+Dodge,Hornet,36532.0,Gasoline,4-Speed Automatic,GT AWD,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,61506.0,Gasoline,Automatic,Anniversary Edition,Four-wheel Drive,1
+Mazda,CX-90 PHEV,59625.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Mercedes-Benz,EQS 450,109545.0,Electric,1-Speed Automatic,Base 4MATIC,All-wheel Drive,1
+Dodge,Hornet,35480.0,Gasoline,Automatic,Hornet Gt Awd,All-wheel Drive,1
+Jeep,Compass,31200.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Jeep,Wrangler 4xe,54835.0,Gasoline,8-Speed Automatic,Sport S,Four-wheel Drive,1
+Jeep,Grand Cherokee,52115.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Volkswagen,Taos,32011.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+RAM,ProMaster 3500,53099.0,Gasoline,9-Speed Automatic,High Roof,Front-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Volkswagen,Taos,30383.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+Cadillac,XT5,46890.0,Gasoline,9-Speed Automatic,Luxury,Front-wheel Drive,1
+Jeep,Grand Cherokee,37729.0,Gasoline,Automatic,Laredo,Four-wheel Drive,1
+Jeep,Wrangler 4xe,53535.0,Hybrid,8-Speed Automatic,Sport,Four-wheel Drive,1
+Dodge,Charger,37490.0,Gasoline,8-Speed Automatic,SXT,Rear-wheel Drive,2
+Dodge,Hornet,44600.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Dodge,Durango,45038.0,Gasoline,8-Speed Automatic,GT,All-wheel Drive,1
+Acura,MDX,56155.0,Gasoline,1-Speed Automatic,Technology,All-wheel Drive,1
+Jeep,Wrangler,60972.0,Gasoline,Automatic,Rubicon,Four-wheel Drive,1
+Jeep,Gladiator,53796.0,Gasoline,8-Speed Automatic,Rubicon,Four-wheel Drive,2
+Dodge,Hornet,41497.0,Gasoline,6-Speed Automatic,R/T EAWD,All-wheel Drive,1
+Volkswagen,Taos,25311.0,Gasoline,4-Speed Automatic,1.5T S,All-wheel Drive,1
+Dodge,Charger,35913.0,Gasoline,8-Speed Automatic,SXT,Rear-wheel Drive,2
+INFINITI,QX50,48350.0,Gasoline,Variable,LUXE,Front-wheel Drive,1
+Nissan,Versa,21000.0,Gasoline,Automatic CVT,1.6 SV,Front-wheel Drive,1
+GMC,Savana 2500,44620.0,Gasoline,Automatic,Work Van,Rear-wheel Drive,1
+Mercedes-Benz,AMG GLE 53,90995.0,Gasoline,9-Speed Automatic,Base,All-wheel Drive,1
+Mazda,CX-90 PHEV,56079.0,Hybrid,8-Speed Automatic,Premium,All-wheel Drive,1
+Ford,F-350,52263.0,Gasoline,1-Speed Automatic,XL,Four-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Dodge,Hornet,42991.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,54910.0,Hybrid,8-Speed Automatic,Trailhawk,Four-wheel Drive,1
+Audi,A5 Sportback,56105.0,Gasoline,7-Speed Automatic,S line Premium Plus,All-wheel Drive,1
+Lincoln,Nautilus,64370.0,Gasoline,8-Speed Automatic,Reserve,All-wheel Drive,1
+Dodge,Durango,44790.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Chevrolet,Trailblazer,32580.0,Gasoline,9-Speed Automatic,RS,All-wheel Drive,1
+BMW,i4 Gran Coupe,69685.0,Electric,1-Speed Automatic,eDrive40,Rear-wheel Drive,1
+Hyundai,Santa Cruz,34330.0,Gasoline,8-Speed Automatic,2.5L SEL,All-wheel Drive,1
+Dodge,Hornet,37430.0,Gasoline,9-Speed Automatic,GT AWD,All-wheel Drive,1
+Hyundai,Santa Cruz,42015.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+Hyundai,Santa Cruz,32925.0,Gasoline,8-Speed Automatic,2.5L SEL,All-wheel Drive,1
+Jeep,Wrangler 4xe,57870.0,Hybrid,8-Speed Automatic,Sahara,Four-wheel Drive,1
+Jeep,Compass,28265.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Volkswagen,Taos,30618.0,Gasoline,4-Speed Automatic,1.5T SE,All-wheel Drive,1
+Ford,Escape,31985.0,Gasoline,8-Speed Automatic,Active,Front-wheel Drive,1
+Ford,Bronco Sport,35210.0,Gasoline,8-Speed Automatic,Outer Banks,Four-wheel Drive,1
+Hyundai,Santa Fe,42455.0,Gasoline,Automatic,XRT,All-wheel Drive,1
+Hyundai,IONIQ 6,51820.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,2
+Hyundai,IONIQ 5,49795.0,Electric,1-Speed Automatic,SEL,Rear-wheel Drive,1
+Jeep,Compass,31721.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Dodge,Durango,44852.0,Gasoline,8-Speed Automatic,GT,All-wheel Drive,1
+Dodge,Hornet,32485.0,Gasoline,9-Speed Automatic,GT AWD,All-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Grand Cherokee L,39370.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Dodge,Hornet,45844.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Jeep,Wagoneer L,78543.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Hyundai,Elantra HEV,27080.0,Hybrid,Automatic,Blue,Front-wheel Drive,1
+RAM,3500,83940.0,Diesel,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Volkswagen,Atlas Cross Sport,48541.0,Gasoline,8-Speed Automatic,2.0T SEL R-Line,All-wheel Drive,1
+RAM,3500,81036.0,Diesel,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Mazda,CX-90 PHEV,54949.0,PHEV Hybrid Fuel,Automatic,Premium,All-wheel Drive,1
+RAM,3500,67562.0,Diesel,Automatic,Tradesman/SLT/Laramie/Limited,Four-wheel Drive,1
+Mazda,CX-90 PHEV,58399.0,PHEV Hybrid Fuel,Automatic,Premium Plus,All-wheel Drive,1
+Lexus,RX 500h,73270.0,Hybrid,6-Speed Automatic,F SPORT PERFORMANCE,All-wheel Drive,1
+RAM,3500,89040.0,Diesel,6-Speed Automatic,Laramie Mega Cab 4x4 6&#39;4&#39; Box,Four-wheel Drive,1
+Hyundai,IONIQ 5,52905.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Ford,Mustang Mach-E,46920.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Chevrolet,Silverado 1500,65175.0,Diesel,Automatic,LT Trail Boss,Four-wheel Drive,1
+Nissan,Versa,20389.0,Gasoline,Automatic CVT,1.6 SR,Front-wheel Drive,1
+Mazda,CX-90 PHEV,50599.0,PHEV Hybrid Fuel,Automatic,Preferred,All-wheel Drive,1
+Ford,Mustang Mach-E,46935.0,Electric,1-Speed Automatic,GT,All-wheel Drive,2
+Hyundai,Santa Fe,38100.0,Gasoline,Automatic,SE 2.4,All-wheel Drive,1
+Kia,Sportage,31190.0,Gasoline,8-Speed Automatic,EX,Front-wheel Drive,1
+Jeep,Wrangler 4xe,50755.0,Hybrid,8-Speed Automatic,Sport,Four-wheel Drive,1
+Hyundai,IONIQ 5,42201.0,Electric,Automatic,SEL,Rear-wheel Drive,1
+Hyundai,Tucson Hybrid,35404.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Hyundai,Tucson Hybrid,35656.0,Hybrid,6-Speed Automatic,N Line,All-wheel Drive,1
+Jeep,Compass,32660.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Hyundai,IONIQ 6,50850.0,Electric,Automatic,SE,All-wheel Drive,1
+Jeep,Wrangler 4xe,61860.0,Hybrid,8-Speed Automatic,Rubicon,Four-wheel Drive,1
+Volkswagen,Taos,25895.0,Gasoline,4-Speed Automatic,1.5T S,All-wheel Drive,1
+Nissan,Kicks,26600.0,Gasoline,CVT,SR,Front-wheel Drive,1
+BMW,i5,91825.0,Electric,1-Speed Automatic,M60,All-wheel Drive,1
+Hyundai,Santa Cruz,37325.0,Gasoline,8-Speed Automatic,2.5L SEL,All-wheel Drive,1
+Jeep,Grand Cherokee,52642.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Compass,40235.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Hyundai,Santa Cruz,42064.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+Hyundai,Tucson Hybrid,39832.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+Jeep,Wagoneer,65928.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+Dodge,Hornet,41036.0,Gasoline,6-Speed Automatic,R/T EAWD,All-wheel Drive,1
+Volkswagen,Taos,33331.0,Gasoline,4-Speed Automatic,1.5T SEL,All-wheel Drive,1
+Dodge,Hornet,51835.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Hyundai,IONIQ 5,42466.0,Electric,1-Speed Automatic,SE,All-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Grand Cherokee L,54209.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+RAM,3500,86505.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+Dodge,Hornet,48595.0,Gasoline,1-Speed Automatic,Hornet R/T Plus Eawd,All-wheel Drive,1
+Mazda,MX-5 Miata RF,38040.0,Gasoline,6-Speed Automatic,Grand Touring,Rear-wheel Drive,2
+Acura,MDX,52950.0,Gasoline,1-Speed Automatic,Base,All-wheel Drive,1
+Jeep,Grand Cherokee L,52567.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Wagoneer,87488.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Hyundai,IONIQ 5,43904.0,Electric,1-Speed Automatic,SE,All-wheel Drive,1
+Chevrolet,Blazer EV,55090.0,Electric,1-Speed Automatic,RS,All-wheel Drive,1
+Mercedes-Benz,EQS 450,110395.0,Electric,Automatic,Base 4MATIC,All-wheel Drive,1
+Jeep,Grand Cherokee,44737.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Volkswagen,ID.4,41693.0,Electric,2-Speed Automatic,Standard,Rear-wheel Drive,1
+Hyundai,Santa Cruz,41995.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+Honda,CR-V,38855.0,Hybrid,Automatic,Hybrid Sport-L,Front-wheel Drive,1
+Jeep,Grand Cherokee 4xe,58909.0,Gasoline,Automatic,Trailhawk,Four-wheel Drive,1
+RAM,2500,65350.0,Gasoline,8-Speed Automatic,Big Horn,Four-wheel Drive,1
+Jeep,Grand Cherokee L,49411.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Jeep,Wagoneer,72908.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Jeep,Compass,37105.0,Gasoline,8-Speed Automatic,Trailhawk,Four-wheel Drive,2
+Dodge,Hornet,50590.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Chevrolet,Silverado 2500,70190.0,Diesel,Automatic,LT,Four-wheel Drive,1
+Chevrolet,Equinox,25515.0,Gasoline,6-Speed Automatic,LS,Front-wheel Drive,1
+Jeep,Wrangler,59542.0,Gasoline,Automatic,Rubicon,Four-wheel Drive,1
+RAM,ProMaster 2500,53445.0,Gasoline,9-Speed Automatic,High Roof,Front-wheel Drive,1
+RAM,2500,79675.0,Diesel,6-Speed Automatic,Laramie,Four-wheel Drive,1
+GMC,Sierra 3500,87075.0,Diesel (B20 capable),1-Speed Automatic,SLT,Four-wheel Drive,1
+Ford,Escape,34799.0,Gasoline,8-Speed Automatic,Active,All-wheel Drive,1
+RAM,2500,67125.0,Diesel,6-Speed Automatic,Laramie,Four-wheel Drive,1
+Jeep,Grand Cherokee L,46721.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Kia,EV6,43348.0,Electric,Automatic,Wind,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,56119.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Volkswagen,Taos,28193.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+Mazda,CX-90 PHEV,58949.0,PHEV Hybrid Fuel,Automatic,Premium Plus,All-wheel Drive,1
+Mazda,CX-90 PHEV,54949.0,PHEV Hybrid Fuel,Automatic,Premium,All-wheel Drive,1
+Mazda,CX-90 PHEV,54949.0,PHEV Hybrid Fuel,Automatic,Premium,All-wheel Drive,1
+Subaru,Legacy,31042.0,Gasoline,Automatic CVT,Premium,All-wheel Drive,1
+Dodge,Hornet,34000.0,Gasoline,9-Speed Automatic,GT AWD,All-wheel Drive,1
+Mazda,CX-90 PHEV,54449.0,PHEV Hybrid Fuel,Automatic,Premium,All-wheel Drive,1
+Ford,F-350,77885.0,Gasoline,1-Speed Automatic,Lariat Super Duty,Four-wheel Drive,1
+Jeep,Compass,31535.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Mazda,CX-90 PHEV,50349.0,PHEV Hybrid Fuel,Automatic,Preferred,All-wheel Drive,1
+Acura,MDX,56345.0,Gasoline,1-Speed Automatic,Technology,Front-wheel Drive,1
+BMW,i4 Gran Coupe,73670.0,Electric,1-Speed Automatic,M50,All-wheel Drive,1
+Mazda,CX-90 PHEV,50675.0,Hybrid,8-Speed Automatic,Preferred,All-wheel Drive,1
+RAM,3500,64516.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Dodge,Hornet,36480.0,Gasoline,Automatic,GT,All-wheel Drive,1
+Audi,Q8 e-tron,89780.0,Electric,Automatic,Premium,All-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+BMW,i7,110445.0,Electric,1-Speed Automatic,eDrive50,Rear-wheel Drive,1
+Volkswagen,Jetta,26104.0,Gasoline,8-Speed Automatic,1.4T SE,Front-wheel Drive,1
+Dodge,Hornet,42790.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+BMW,M235 Gran Coupe,54545.0,Gasoline,8-Speed Automatic,i xDrive,All-wheel Drive,1
+RAM,3500,65774.0,Diesel,6-Speed Automatic,Big Horn,Four-wheel Drive,1
+Nissan,Rogue,34305.0,Gasoline,Automatic,SV,All-wheel Drive,1
+Dodge,Hornet,44621.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Dodge,Hornet,39763.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+RAM,3500,67237.0,Diesel,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Honda,CR-V Hybrid,36900.0,Hybrid,Automatic CVT,Sport,All-wheel Drive,1
+Ford,Expedition,90350.0,Gasoline,1-Speed Automatic,Limited,Four-wheel Drive,1
+Ford,Expedition,83910.0,Gasoline,1-Speed Automatic,Timberline,Four-wheel Drive,1
+Audi,Q8 e-tron,84465.0,Electric,Automatic,Premium,All-wheel Drive,1
+Chevrolet,Silverado 1500,49944.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Kia,Sportage,32433.0,Gasoline,8-Speed Automatic,S,All-wheel Drive,1
+Kia,Sportage,33095.0,Gasoline,8-Speed Automatic,SX,Front-wheel Drive,1
+Kia,Sportage,39990.0,Gasoline,8-Speed Automatic,X-Pro Prestige,All-wheel Drive,1
+Land Rover,Range Rover Evoque,62145.0,Gasoline,9-Speed Automatic,Dynamic SE,All-wheel Drive,1
+Honda,Odyssey,48364.0,Gasoline,1-Speed Automatic,Elite,Front-wheel Drive,1
+RAM,2500,83374.0,Diesel,Automatic,Longhorn,Four-wheel Drive,1
+Chevrolet,Equinox,31222.0,Gasoline,6-Speed Automatic,FWD RS,Front-wheel Drive,1
+GMC,Sierra 2500,85845.0,Diesel,1-Speed Automatic,Denali,Four-wheel Drive,1
+Kia,Sportage,30034.0,Gasoline,8-Speed Automatic,S,Front-wheel Drive,1
+Dodge,Durango,44170.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Audi,Q5 e,69995.0,Gasoline,7-Speed Automatic,Premium 55 TFSI e S line quattro S tronic,All-wheel Drive,1
+Volkswagen,Jetta,27554.0,Gasoline,8-Speed Automatic,1.4T SE,Front-wheel Drive,1
+Nissan,Titan,45716.0,Gasoline,Automatic,SV,Four-wheel Drive,1
+Audi,RS e-tron GT,153690.0,Electric,1-Speed Automatic,quattro,All-wheel Drive,1
+Ford,Edge,42715.0,Gasoline,8-Speed Automatic,ST-Line,All-wheel Drive,1
+Hyundai,Santa Cruz,36970.0,Gasoline,8-Speed Automatic,2.5L SEL,All-wheel Drive,1
+Volkswagen,Jetta,26329.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+Chevrolet,Equinox,30101.0,Gasoline,6-Speed Automatic,1LT,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,54899.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Kia,Sportage,32198.0,Gasoline,8-Speed Automatic,S,All-wheel Drive,1
+Nissan,Titan,54585.0,Gasoline,Automatic,SV,Four-wheel Drive,1
+Jeep,Compass,35999.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,36882.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+INFINITI,QX50,45055.0,Gasoline,Variable,LUXE,Front-wheel Drive,1
+RAM,3500,69697.0,Diesel,Automatic,Big Horn,Four-wheel Drive,1
+Ford,Mustang Mach-E,49285.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Dodge,Durango,47785.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Wrangler 4xe,51083.0,Gasoline,8-Speed Automatic,Sport S,Four-wheel Drive,1
+Kia,EV6,41528.0,Electric,Automatic,Wind,All-wheel Drive,1
+Nissan,Kicks,27400.0,Gasoline,CVT,SR,Front-wheel Drive,1
+Mazda,CX-90 PHEV,52445.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Hyundai,Tucson Hybrid,34600.0,Hybrid,6-Speed Automatic,Blue,All-wheel Drive,1
+Dodge,Durango,47165.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Compass,34084.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Grand Cherokee,50184.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Hyundai,IONIQ 5,45842.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Hyundai,Santa Cruz,40380.0,Gasoline,8-Speed Automatic,2.5T NIGHT,All-wheel Drive,1
+Land Rover,Discovery Sport,55353.0,Gasoline,9-Speed Automatic,Dynamic SE,All-wheel Drive,1
+Mercedes-Benz,Sprinter 3500,72357.0,Diesel,9-Speed Automatic,170 WB High Roof Extended Cargo,Rear-wheel Drive,1
+Hyundai,Tucson Hybrid,34492.0,Hybrid,6-Speed Automatic,Blue,All-wheel Drive,1
+Hyundai,Santa Cruz,36000.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+Jeep,Grand Cherokee,53160.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,59116.0,Gasoline,Automatic,4x4,Four-wheel Drive,1
+Jeep,Wrangler,67510.0,Gasoline,Automatic,Rubicon,Four-wheel Drive,1
+Honda,Odyssey,48187.0,Gasoline,1-Speed Automatic,Elite,Front-wheel Drive,1
+Volkswagen,Jetta,25923.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+Jeep,Grand Cherokee,50702.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Volvo,XC90 Recharge Plug-In Hybrid,75595.0,Hybrid,8-Speed Automatic,T8 Plus Bright Theme 7 Passenger,All-wheel Drive,1
+Jeep,Wrangler 4xe,51845.0,Hybrid,8-Speed Automatic,Sport,Four-wheel Drive,1
+Cadillac,XT5,60915.0,Gasoline,9-Speed Automatic,Premium Luxury,Front-wheel Drive,1
+RAM,3500,71167.0,Diesel,6-Speed Automatic,Big Horn,Four-wheel Drive,1
+Hyundai,Santa Cruz,41975.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+Jeep,Compass,38481.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Hyundai,Sonata Hybrid,32520.0,Hybrid,6-Speed Automatic,SEL,Front-wheel Drive,1
+Kia,Sorento,48861.0,Gasoline,Automatic,SX,All-wheel Drive,2
+Chevrolet,Equinox,31537.0,Gasoline,6-Speed Automatic,LS,All-wheel Drive,1
+Jeep,Grand Cherokee,47175.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Dodge,Hornet,51585.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Jeep,Wagoneer L,86097.0,Gasoline,8-Speed Automatic,Series III,Four-wheel Drive,2
+Mercedes-Benz,EQS 450,114850.0,Electric,1-Speed Automatic,Base 4MATIC,All-wheel Drive,1
+Nissan,Frontier,37946.0,Gasoline,9-Speed Automatic,SV,Rear-wheel Drive,1
+Chevrolet,Equinox,31301.0,Gasoline,6-Speed Automatic,1LT,All-wheel Drive,1
+RAM,3500,63010.0,Gasoline,8-Speed Automatic,Tradesman,Four-wheel Drive,2
+Nissan,Titan,50030.0,Gasoline,Automatic,SV,Four-wheel Drive,1
+GMC,Savana 2500,42990.0,Gasoline,8-Speed Automatic,Work Van,Rear-wheel Drive,1
+Chevrolet,Equinox,32635.0,Gasoline,6-Speed Automatic,RS,Front-wheel Drive,1
+Nissan,Titan,46672.0,Gasoline,Automatic,SV,Four-wheel Drive,2
+Honda,HR-V,27450.0,Gasoline,Automatic,LX,All-wheel Drive,1
+Kia,Niro,34310.0,Gasoline,6-Speed Automatic,Touring,Front-wheel Drive,1
+Buick,Encore GX,36190.0,Gasoline,9-Speed Automatic,Avenir,All-wheel Drive,1
+Mazda,CX-90 PHEV,57849.0,PHEV Hybrid Fuel,Automatic,Premium Plus,All-wheel Drive,1
+Ford,Edge,44615.0,Gasoline,8-Speed Automatic,SEL,All-wheel Drive,1
+Kia,Sportage,34985.0,Gasoline,8-Speed Automatic,SX,Front-wheel Drive,1
+Jeep,Compass,28867.0,Gasoline,Automatic,Latitude,Four-wheel Drive,1
+RAM,ProMaster 2500,53890.0,Gasoline,9-Speed Automatic,High Roof,Front-wheel Drive,1
+Hyundai,IONIQ 6,48510.0,Electric,Automatic,SEL,All-wheel Drive,1
+Genesis,Electrified G80,81525.0,Electric,1-Speed Automatic,Base,All-wheel Drive,2
+Hyundai,IONIQ 5,52515.0,Electric,1-Speed Automatic,Limited,All-wheel Drive,1
+Hyundai,Tucson Hybrid,35364.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Hyundai,Tucson Hybrid,35885.0,Hybrid,6-Speed Automatic,N Line,All-wheel Drive,1
+Mercedes-Benz,GLE 450,85630.0,Gasoline,9-Speed Automatic,4MATIC,All-wheel Drive,1
+Jeep,Grand Cherokee,47530.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Jeep,Wagoneer,75888.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Chevrolet,Silverado 1500,49632.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Mazda,CX-90 PHEV,55439.0,Hybrid,8-Speed Automatic,Premium,All-wheel Drive,1
+Volkswagen,Taos,30618.0,Gasoline,4-Speed Automatic,1.5T SE,All-wheel Drive,1
+Mercedes-Benz,GLS 450,98180.0,Gasoline,9-Speed Automatic,4MATIC,All-wheel Drive,1
+Dodge,Hornet,44604.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Acura,MDX,57650.0,Gasoline,1-Speed Automatic,Technology,All-wheel Drive,1
+Jeep,Compass,32269.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Hyundai,IONIQ 5,42466.0,Electric,1-Speed Automatic,SE,All-wheel Drive,1
+Dodge,Hornet,45051.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Land Rover,Discovery Sport,57508.0,Gasoline,9-Speed Automatic,Dynamic SE,All-wheel Drive,1
+Ford,Transit-250,51803.0,Gasoline,Automatic,Base,Rear-wheel Drive,1
+Mercedes-Benz,EQS 450,114160.0,Electric,1-Speed Automatic,Base 4MATIC,All-wheel Drive,1
+Acura,MDX,56800.0,Gasoline,1-Speed Automatic,Technology,Front-wheel Drive,1
+Jeep,Grand Cherokee L,52631.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Compass,38500.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Chevrolet,Trax,24680.0,Gasoline,6-Speed Automatic,LT,Front-wheel Drive,1
+BMW,i5,96895.0,Electric,1-Speed Automatic,M60,All-wheel Drive,1
+Jeep,Wrangler 4xe,54490.0,Gasoline,Automatic,Rubicon X,Four-wheel Drive,1
+RAM,3500,80095.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+Honda,Odyssey,44350.0,Gasoline,Automatic,Touring,Front-wheel Drive,1
+RAM,ProMaster 3500,66375.0,Gasoline,Automatic,High Roof,Front-wheel Drive,2
+BMW,i5,93335.0,Electric,1-Speed Automatic,M60,All-wheel Drive,1
+Chevrolet,Silverado 1500,57635.0,Gasoline,Automatic,Custom Trail Boss,Four-wheel Drive,1
+Chrysler,Pacifica,45300.0,Gasoline,4-Speed Automatic,Touring L,Front-wheel Drive,2
+Jeep,Compass,28860.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Dodge,Hornet,34637.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Jeep,Grand Cherokee,50184.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Wagoneer L,87190.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Mazda,CX-90 PHEV,55399.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Hyundai,Tucson Hybrid,41391.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+Ford,Bronco Sport,30020.0,Gasoline,8-Speed Automatic,Big Bend,Four-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+BMW,i5,74695.0,Electric,1-Speed Automatic,eDrive40,Rear-wheel Drive,1
+Jeep,Grand Cherokee L,66360.0,Gasoline,Automatic,Overland,Four-wheel Drive,1
+Nissan,Kicks,26500.0,Gasoline,CVT,SR,Front-wheel Drive,1
+Dodge,Durango,53995.0,Gasoline,8-Speed Automatic,R/T,All-wheel Drive,2
+Land Rover,Defender,77645.0,Gasoline,8-Speed Automatic,P400 X-Dynamic SE,Four-wheel Drive,1
+Jeep,Wrangler 4xe,58648.0,Gasoline,8-Speed Automatic,Sahara,Four-wheel Drive,1
+Chrysler,Pacifica,46450.0,Gasoline,9-Speed Automatic,Touring-L,All-wheel Drive,1
+Ford,Edge,41195.0,Gasoline,8-Speed Automatic,SEL,All-wheel Drive,1
+Jeep,Gladiator,46791.0,Gasoline,Automatic,Sport,Four-wheel Drive,1
+GMC,Yukon XL,76648.0,Gasoline,Automatic,SLT,Rear-wheel Drive,1
+Audi,SQ8 e-tron,106215.0,Electric,Automatic,Premium Plus,All-wheel Drive,1
+Dodge,Durango,47165.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Audi,Q5 e,78695.0,Gasoline,7-Speed Automatic,55 Prestige,All-wheel Drive,1
+BMW,X7,115445.0,Gasoline,8-Speed Automatic,M60i,All-wheel Drive,1
+Jeep,Compass,34182.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Kia,Sorento Hybrid,39390.0,Hybrid,Automatic,EX,Front-wheel Drive,1
+Dodge,Hornet,38546.0,Gasoline,4-Speed Automatic,GT Plus AWD,All-wheel Drive,1
+Kia,Seltos,28630.0,Gasoline,Automatic CVT,S,All-wheel Drive,1
+RAM,2500,61865.0,Gasoline,8-Speed Automatic,Tradesman,Four-wheel Drive,1
+Jeep,Compass,26860.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Jeep,Compass,29826.0,Gasoline,8-Speed Automatic,Latitude Lux,Four-wheel Drive,1
+Dodge,Hornet,42597.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Kia,Niro,37135.0,Hybrid,Automatic,SX Touring,Front-wheel Drive,1
+Dodge,Hornet,52180.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Dodge,Hornet,30900.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,61506.0,Gasoline,Automatic,Anniversary Edition,Four-wheel Drive,1
+Buick,Envision,37135.0,Gasoline,9-Speed Automatic,Preferred,All-wheel Drive,2
+Ford,Escape,33590.0,Hybrid,CVT,ST-Line,Front-wheel Drive,1
+Ford,Escape,41765.0,Hybrid,CVT,S,Front-wheel Drive,1
+Jeep,Grand Cherokee L,50377.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Chevrolet,Silverado 1500,65416.0,Gasoline,automatic w/paddle shifters,LT Trail Boss,Four-wheel Drive,1
+Hyundai,Santa Cruz,43299.0,Gasoline,8-Speed Automatic,2.5T Limited,All-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Grand Cherokee,47744.0,Gasoline,Automatic,Limited,Four-wheel Drive,1
+Jeep,Grand Cherokee L,53455.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Ford,Transit-250,52853.0,Gasoline,Automatic,Base,Rear-wheel Drive,1
+Ford,Bronco,69035.0,Gasoline,1-Speed Automatic,Wildtrak,Four-wheel Drive,1
+Kia,Niro,31860.0,Gasoline,A/T,EX,Front-wheel Drive,1
+Subaru,Outback,44354.0,Gasoline,Automatic CVT,Wilderness,All-wheel Drive,1
+Hyundai,Elantra HEV,27080.0,Hybrid,Automatic,Blue,Front-wheel Drive,1
+Acura,MDX,56800.0,Gasoline,1-Speed Automatic,Technology,Front-wheel Drive,1
+Ford,Mustang Mach-E,49770.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Ford,Mustang Mach-E,46775.0,Electric,1-Speed Automatic,GT,All-wheel Drive,2
+RAM,3500,64214.0,Diesel,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+RAM,3500,82523.0,Diesel,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Mercedes-Benz,EQS 450,117985.0,Electric,Automatic,Base 4MATIC,All-wheel Drive,1
+Chevrolet,Silverado 1500,49496.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Chevrolet,Silverado 1500,43135.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Jeep,Compass,28867.0,Gasoline,Automatic,Latitude,Four-wheel Drive,1
+Kia,Sportage,35490.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Hyundai,Tucson Hybrid,33109.0,Hybrid,6-Speed Automatic,Blue,All-wheel Drive,1
+Mazda,CX-90 PHEV,54949.0,PHEV Hybrid Fuel,Automatic,Premium,All-wheel Drive,1
+Hyundai,Tucson Hybrid,39832.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+Hyundai,IONIQ 5,51765.0,Electric,1-Speed Automatic,Limited,All-wheel Drive,1
+Ford,Mustang Mach-E,45780.0,Electric,1-Speed Automatic,Select,All-wheel Drive,1
+RAM,2500,46670.0,Gasoline,8-Speed Automatic,Tradesman,Four-wheel Drive,1
+Ford,Expedition,88135.0,Gasoline,1-Speed Automatic,Platinum,Four-wheel Drive,1
+Hyundai,IONIQ 5,45289.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Jeep,Gladiator,54210.0,Gasoline,8-Speed Automatic,Rubicon,Four-wheel Drive,2
+Jeep,Grand Cherokee,43585.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Chrysler,Pacifica,46163.0,Gasoline,9-Speed Automatic,Touring-L,Front-wheel Drive,1
+Jeep,Wrangler 4xe,49550.0,Hybrid,8-Speed Automatic,Sport,Four-wheel Drive,1
+Volkswagen,Jetta,22260.0,Gasoline,8-Speed Automatic,1.5T S,Front-wheel Drive,1
+Jeep,Grand Cherokee,47744.0,Gasoline,Automatic,Limited,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,54899.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+RAM,3500,84860.0,Diesel,6-Speed Automatic,Laramie,Four-wheel Drive,1
+RAM,2500,71846.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Dodge,Hornet,46490.0,Gasoline,6-Speed Automatic,R/T Plus EAWD,All-wheel Drive,1
+Ford,Mustang Mach-E,51785.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Chevrolet,Silverado 1500,49180.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Hyundai,IONIQ 6,50945.0,Electric,Automatic,SEL,All-wheel Drive,1
+Volkswagen,Taos,35683.0,Gasoline,7-Speed Automatic,1.5T SEL,All-wheel Drive,1
+Ford,Expedition,84190.0,Gasoline,1-Speed Automatic,Limited,Four-wheel Drive,1
+Hyundai,Sonata Hybrid,38870.0,Hybrid,6-Speed Automatic,Limited,Front-wheel Drive,1
+RAM,3500,71999.0,Diesel,Automatic,Tradesman,Four-wheel Drive,2
+Jeep,Grand Cherokee,47080.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Jeep,Wrangler 4xe,54226.0,Gasoline,Automatic,Rubicon X,Four-wheel Drive,1
+Jeep,Compass,33255.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Hyundai,IONIQ 5,45373.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Jeep,Wrangler,48612.0,Gasoline,Automatic,Sport S,Four-wheel Drive,1
+BMW,X7,90945.0,Gasoline,8-Speed Automatic,xDrive40i,All-wheel Drive,0
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Hyundai,Santa Cruz,37100.0,Gasoline,8-Speed Automatic,2.5L SEL,All-wheel Drive,1
+Mazda,CX-90 PHEV,59205.0,Hybrid,8-Speed Automatic,Premium Plus,All-wheel Drive,1
+Ford,Bronco Sport,31390.0,Gasoline,Automatic,Big Bend,Four-wheel Drive,1
+Hyundai,Palisade,46905.0,Gasoline,8-Speed Automatic,SEL,All-wheel Drive,1
+Hyundai,Santa Cruz,36499.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+BMW,i4 Gran Coupe,79300.0,Electric,1-Speed Automatic,M50,All-wheel Drive,1
+RAM,2500,74990.0,Diesel,Automatic,Power Wagon,Four-wheel Drive,1
+Honda,CR-V Hybrid,40355.0,Hybrid,Automatic CVT,Sport-L,All-wheel Drive,1
+Jeep,Grand Cherokee,43000.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,2
+Hyundai,Sonata Hybrid,38870.0,Hybrid,6-Speed Automatic,Limited,Front-wheel Drive,1
+BMW,740,103045.0,Gasoline,8-Speed Automatic,i,Rear-wheel Drive,1
+Volkswagen,Taos,28997.0,Gasoline,4-Speed Automatic,1.5T SE,All-wheel Drive,1
+Volkswagen,Taos,29066.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+GMC,Terrain,33092.0,Gasoline,9-Speed Automatic,SLE,All-wheel Drive,1
+Hyundai,Palisade,47100.0,Gasoline,8-Speed Automatic,SEL,All-wheel Drive,1
+Volkswagen,Taos,32406.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+Ford,Explorer,40145.0,Gasoline,1-Speed Automatic,XLT,Rear-wheel Drive,1
+Nissan,Kicks,24600.0,Gasoline,CVT,SV,Front-wheel Drive,1
+Jeep,Grand Cherokee 4xe,69201.0,Hybrid,8-Speed Automatic,Summit,Four-wheel Drive,1
+Nissan,Versa,17994.0,Gasoline,Automatic CVT,S,Front-wheel Drive,1
+Ford,Escape,40630.0,Gasoline,8-Speed Automatic,ST-Line Elite,All-wheel Drive,1
+Jeep,Grand Cherokee,49075.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Volkswagen,Jetta,23160.0,Gasoline,8-Speed Automatic,1.4T S,Front-wheel Drive,1
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Ford,Mustang Mach-E,52180.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Hyundai,IONIQ 5,59255.0,Electric,1-Speed Automatic,Limited,All-wheel Drive,1
+Ford,Transit-250,51803.0,Gasoline,Automatic,Base,Rear-wheel Drive,1
+Jeep,Grand Cherokee 4xe,67784.0,Hybrid,8-Speed Automatic,Trailhawk,Four-wheel Drive,1
+Hyundai,Santa Cruz,40449.0,Gasoline,8-Speed Automatic,2.5T NIGHT,All-wheel Drive,1
+Chevrolet,Equinox,30188.0,Gasoline,6-Speed Automatic,1LT,Front-wheel Drive,1
+Mazda,CX-90 PHEV,59420.0,Gasoline,Automatic,Base,All-wheel Drive,1
+Mazda,CX-90 PHEV,60080.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Buick,Envision,42785.0,Gasoline,9-Speed Automatic,Essence,All-wheel Drive,2
+Audi,Q8 e-tron,84530.0,Electric,Automatic,Premium,All-wheel Drive,1
+Dodge,Durango,47280.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Compass,30525.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Honda,Passport,44850.0,Gasoline,9-Speed Automatic,TrailSport,All-wheel Drive,1
+Cadillac,LYRIQ,83665.0,Electric,Automatic,Sport w/1SF,Rear-wheel Drive,1
+Nissan,Titan,47105.0,Gasoline,Automatic,SV,Four-wheel Drive,1
+Jeep,Compass,38736.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Compass,28265.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Jeep,Wrangler 4xe,58230.0,Hybrid,8-Speed Automatic,Sahara,Four-wheel Drive,1
+Jeep,Wrangler 4xe,67190.0,Hybrid,8-Speed Automatic,Rubicon,Four-wheel Drive,1
+Hyundai,IONIQ 5,45738.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Ford,Escape,30278.0,Gasoline,8-Speed Automatic,Active,Front-wheel Drive,1
+Ford,Escape,34572.0,Gasoline,8-Speed Automatic,ST-Line,All-wheel Drive,1
+Jeep,Wrangler 4xe,66960.0,Hybrid,8-Speed Automatic,Rubicon,Four-wheel Drive,1
+Jeep,Compass,31535.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Chevrolet,Equinox,30955.0,Gasoline,Automatic,LS,All-wheel Drive,1
+Dodge,Hornet,34698.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Ford,Escape,32138.0,Gasoline,8-Speed Automatic,ST-Line,All-wheel Drive,1
+Ford,Transit-250,61248.0,Gasoline,Automatic,Base,Rear-wheel Drive,1
+Ford,Mustang Mach-E,46920.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Jeep,Grand Cherokee,40925.0,Gasoline,Automatic,Laredo,Four-wheel Drive,1
+Chevrolet,Silverado 1500,76475.0,Gasoline,1-Speed Automatic,ZR2,Four-wheel Drive,1
+Ford,Mustang Mach-E,45525.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,2
+Jeep,Grand Cherokee,65360.0,Gasoline,Automatic,Summit,Four-wheel Drive,1
+Chevrolet,Silverado 1500,47650.0,Gasoline,1-Speed Automatic,Custom Trail Boss,Four-wheel Drive,1
+Honda,Odyssey,41705.0,Gasoline,1-Speed Automatic,EX-L,Front-wheel Drive,1
+Hyundai,IONIQ 5,54495.0,Electric,1-Speed Automatic,Disney100 Platinum Edition,All-wheel Drive,1
+Hyundai,Elantra HEV,30335.0,Hybrid,Automatic,Limited,Front-wheel Drive,1
+Hyundai,Tucson Hybrid,33695.0,Hybrid,6-Speed Automatic,Blue,All-wheel Drive,1
+Volkswagen,Jetta,29374.0,Gasoline,8-Speed Automatic,1.5T SEL,Front-wheel Drive,1
+Jeep,Wrangler 4xe,51350.0,Hybrid,8-Speed Automatic,Sport,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,35744.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Jeep,Wrangler 4xe,63715.0,Hybrid,8-Speed Automatic,Sahara,Four-wheel Drive,2
+Hyundai,Elantra HEV,25975.0,Hybrid,6-Speed Automatic,Blue,Front-wheel Drive,1
+Hyundai,IONIQ 6,39997.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,2
+Toyota,Tundra Hybrid,68256.0,Hybrid,1-Speed Automatic,Limited,Four-wheel Drive,1
+RAM,ProMaster 3500,67749.0,Gasoline,9-Speed Automatic,Base,Front-wheel Drive,1
+Jeep,Grand Cherokee L,49735.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Dodge,Hornet,49885.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Toyota,Corolla Cross,30499.0,Gasoline,Automatic CVT,LE,All-wheel Drive,1
+Kia,EV6,41991.0,Electric,Automatic,Wind,All-wheel Drive,1
+Ford,Explorer,40145.0,Gasoline,1-Speed Automatic,XLT,Rear-wheel Drive,1
+Mazda,CX-90 PHEV,54939.0,PHEV Hybrid Fuel,Automatic,Premium,All-wheel Drive,1
+Jeep,Wagoneer L,83845.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Mercedes-Benz,Sprinter 2500,58665.0,Gasoline,Automatic,High Roof,Rear-wheel Drive,2
+Dodge,Durango,46835.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Grand Wagoneer,124250.0,Gasoline,8-Speed Automatic,Series III,Four-wheel Drive,1
+Mercedes-Benz,Sprinter 2500,65129.0,Diesel,Automatic,High Roof,Rear-wheel Drive,1
+Ford,Mustang Mach-E,49785.0,Electric,1-Speed Automatic,Select,All-wheel Drive,1
+Honda,CR-V Hybrid,42150.0,Gasoline,1-Speed Automatic,Sport Touring,All-wheel Drive,0
+Cadillac,XT5,47225.0,Gasoline,9-Speed Automatic,Luxury,All-wheel Drive,1
+Hyundai,Santa Cruz,31610.0,Gasoline,8-Speed Automatic,2.5L SEL,All-wheel Drive,1
+Toyota,Tundra Hybrid,72977.0,Hybrid,1-Speed Automatic,1794 Edition,Four-wheel Drive,1
+Dodge,Hornet,36734.0,Gasoline,4-Speed Automatic,GT AWD,All-wheel Drive,1
+RAM,3500,61330.0,Diesel,6-Speed Automatic,Tradesman,Four-wheel Drive,1
+Hyundai,Kona,32009.0,Gasoline,Automatic CVT,SEL,All-wheel Drive,1
+Chevrolet,Silverado 1500,49229.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+INFINITI,QX55,54200.0,Gasoline,Automatic CVT,SENSORY,All-wheel Drive,2
+Jeep,Compass,25999.0,Gasoline,Automatic,Sport,Four-wheel Drive,2
+Mazda,CX-90 PHEV,56995.0,Gasoline,Automatic,Base,All-wheel Drive,1
+Chevrolet,Equinox,34472.0,Gasoline,6-Speed Automatic,1LT,All-wheel Drive,1
+Nissan,Kicks,25410.0,Gasoline,Automatic CVT,SR,Front-wheel Drive,1
+Dodge,Hornet,49885.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Toyota,Corolla,22623.0,Gasoline,Automatic CVT,LE,Front-wheel Drive,1
+Hyundai,IONIQ 5,45830.0,Electric,Automatic,SEL,All-wheel Drive,1
+Volkswagen,Jetta,29895.0,Gasoline,8-Speed Automatic,1.4T SEL,Front-wheel Drive,1
+Hyundai,IONIQ 5,44713.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+RAM,ProMaster 3500,68095.0,Gasoline,9-Speed Automatic,Base,Front-wheel Drive,1
+Volkswagen,Jetta,24348.0,Gasoline,8-Speed Automatic,1.4T S,Front-wheel Drive,1
+RAM,3500,65260.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+GMC,Terrain,40980.0,Gasoline,9-Speed Automatic,Denali,All-wheel Drive,1
+Hyundai,Tucson Hybrid,37275.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+RAM,3500,72294.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+Mazda,CX-90 PHEV,51625.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Hyundai,Kona,30829.0,Gasoline,8-Speed Automatic,Limited,Front-wheel Drive,1
+Dodge,Hornet,44826.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Dodge,Hornet,38122.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Jeep,Grand Cherokee L,47451.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Jeep,Wrangler 4xe,58840.0,Hybrid,8-Speed Automatic,Sahara,Four-wheel Drive,1
+Dodge,Hornet,32837.0,Gasoline,Automatic,GT AWD,All-wheel Drive,1
+Ford,Bronco Sport,31390.0,Gasoline,Automatic,Big Bend,Four-wheel Drive,1
+Chrysler,Pacifica,54403.0,Gasoline,9-Speed Automatic,Touring-L,All-wheel Drive,1
+Toyota,Tundra Hybrid,71146.0,Hybrid,1-Speed Automatic,Platinum,Rear-wheel Drive,1
+Jeep,Wagoneer,84935.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Ford,F-150,52495.0,Gasoline,1-Speed Automatic,XLT,Four-wheel Drive,2
+RAM,2500,61481.0,Diesel,6-Speed Automatic,Tradesman 4x4 Crew Cab 8 Box,Four-wheel Drive,1
+Mazda,CX-90 PHEV,51700.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Chevrolet,Silverado 1500,42947.0,Gasoline,8-Speed Automatic,Custom,Rear-wheel Drive,1
+Dodge,Hornet,34329.0,Gasoline,Automatic,GT AWD,All-wheel Drive,1
+RAM,3500,62154.0,Gasoline,8-Speed Automatic,Tradesman,Four-wheel Drive,1
+Audi,A3,39375.0,Gasoline,7-Speed Automatic,Premium,Front-wheel Drive,1
+Jeep,Wrangler 4xe,65295.0,Hybrid,8-Speed Automatic,Rubicon,Four-wheel Drive,1
+Jeep,Wrangler 4xe,64930.0,Hybrid,8-Speed Automatic,Rubicon,Four-wheel Drive,1
+Ford,Mustang Mach-E,46540.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,2
+Mazda,CX-90 PHEV,54949.0,PHEV Hybrid Fuel,Automatic,Premium,All-wheel Drive,1
+Dodge,Hornet,47142.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Hyundai,Santa Cruz,41955.0,Gasoline,8-Speed Automatic,2.5T XRT,All-wheel Drive,1
+Ford,Escape,36860.0,Gasoline,8-Speed Automatic,Active,All-wheel Drive,1
+RAM,3500,76300.0,Diesel,6-Speed Automatic,Big Horn,Four-wheel Drive,1
+RAM,ProMaster 3500,68095.0,Gasoline,9-Speed Automatic,Base,Front-wheel Drive,1
+Ford,F-150,45605.0,Gasoline,Automatic,STX,Four-wheel Drive,1
+Nissan,Kicks,24305.0,Gasoline,CVT,S,Front-wheel Drive,1
+Ford,Explorer,46870.0,Gasoline,1-Speed Automatic,XLT,Rear-wheel Drive,1
+Hyundai,Kona,33840.0,Gasoline,8-Speed Automatic,Limited,All-wheel Drive,1
+Chevrolet,Silverado 1500,50058.0,Gasoline,Automatic,LT,Four-wheel Drive,1
+Honda,CR-V Hybrid,37505.0,Hybrid,Automatic CVT,Sport-L,Front-wheel Drive,1
+Hyundai,Sonata Hybrid,33005.0,Hybrid,6-Speed Automatic,SEL,Front-wheel Drive,1
+Acura,MDX,53700.0,Gasoline,1-Speed Automatic,Base,All-wheel Drive,1
+Mercedes-Benz,Sprinter 3500,62295.0,Diesel,Automatic,High Roof,Rear-wheel Drive,1
+GMC,Sierra 2500,90220.0,Diesel,1-Speed Automatic,Denali,Four-wheel Drive,1
+Jeep,Compass,33696.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Grand Cherokee L,54641.0,Gasoline,8-Speed Automatic,Limited,Rear-wheel Drive,1
+Cadillac,LYRIQ,60115.0,Electric,1-Speed Automatic,Luxury,Rear-wheel Drive,1
+Hyundai,Tucson,32750.0,Gasoline,8-Speed Automatic,SEL,Front-wheel Drive,1
+Mazda,CX-90 PHEV,50595.0,Hybrid,8-Speed Automatic,Preferred,All-wheel Drive,1
+Ford,Explorer,53915.0,Gasoline,1-Speed Automatic,Platinum,Rear-wheel Drive,0
+Jeep,Wagoneer,77473.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+INFINITI,QX50,49404.0,Gasoline,(CVT) CONT VAR.,SPORT,Front-wheel Drive,1
+Hyundai,Elantra HEV,30870.0,Hybrid,Automatic,Limited,Front-wheel Drive,1
+Buick,Enclave,56872.0,Gasoline,9-Speed Automatic,Premium,All-wheel Drive,1
+Jeep,Compass,34730.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Chrysler,Pacifica,55183.0,Gasoline,9-Speed Automatic,Limited,All-wheel Drive,1
+Hyundai,Tucson,32625.0,Gasoline,8-Speed Automatic,SEL,Front-wheel Drive,1
+Nissan,Versa,20849.0,Gasoline,Automatic CVT,S,Front-wheel Drive,1
+Audi,A5 Sportback,52405.0,Gasoline,7-Speed Automatic,S line Premium,All-wheel Drive,1
+RAM,3500,67159.0,Diesel,6-Speed Automatic,Big Horn,Four-wheel Drive,1
+Ford,Edge,40260.0,Gasoline,8-Speed Automatic,SE,All-wheel Drive,1
+Mercedes-Benz,GLS 450,95230.0,Gasoline,9-Speed Automatic,4MATIC,All-wheel Drive,1
+Hyundai,Tucson Hybrid,35835.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Hyundai,Tucson Hybrid,35775.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+RAM,3500,72600.0,Diesel,6-Speed Automatic,Big Horn,Four-wheel Drive,1
+Chevrolet,Silverado 1500,47410.0,Gasoline,1-Speed Automatic,WT,Four-wheel Drive,1
+Kia,Niro,30935.0,Hybrid,6-Speed Automatic,EX,Front-wheel Drive,1
+Jeep,Compass,27087.0,Gasoline,8-Speed Automatic,Sport,Four-wheel Drive,1
+RAM,3500,78895.0,Diesel,6-Speed Automatic,Big Horn,Four-wheel Drive,1
+Ford,Edge,44710.0,Gasoline,8-Speed Automatic,Titanium,All-wheel Drive,1
+Nissan,Sentra,21637.0,Gasoline,Automatic,SV,Front-wheel Drive,1
+Kia,Seltos,28535.0,Gasoline,Automatic CVT,S,All-wheel Drive,1
+Jeep,Grand Cherokee L,50923.0,Gasoline,Automatic,Limited,Four-wheel Drive,1
+Nissan,Versa,21889.0,Gasoline,Automatic CVT,1.6 SR,Front-wheel Drive,1
+Hyundai,Kona,29182.0,Gasoline,Automatic CVT,SEL,Front-wheel Drive,1
+Nissan,Kicks,21123.0,Gasoline,CVT with Xtronic,SR,Front-wheel Drive,1
+RAM,3500,63518.0,Diesel,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+RAM,3500,79934.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Grand Cherokee L,46243.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Dodge,Hornet,42876.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+GMC,Sierra 3500,102287.0,Diesel,1-Speed Automatic,Denali,Four-wheel Drive,1
+Jeep,Grand Cherokee L,55020.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Jeep,Grand Cherokee,40344.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Hyundai,Kona,33491.0,Gasoline,8-Speed Automatic,N Line,All-wheel Drive,1
+Hyundai,Tucson Hybrid,40754.0,Hybrid,Automatic,Limited,All-wheel Drive,1
+RAM,3500,83640.0,Diesel,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Hyundai,IONIQ 5,46246.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Toyota,RAV4 Prime,50209.0,Hybrid,Automatic CVT,XSE,All-wheel Drive,1
+RAM,2500,69720.0,Gasoline,8-Speed Automatic,Big Horn,Four-wheel Drive,1
+Chevrolet,Silverado 1500,88478.0,Gasoline,Automatic,RST,Four-wheel Drive,1
+Hyundai,Kona,35389.0,Gasoline,8-Speed Automatic,Limited,All-wheel Drive,1
+Hyundai,Tucson Hybrid,36600.0,Hybrid,Automatic,N Line,All-wheel Drive,1
+Jeep,Grand Wagoneer,110150.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,2
+Jeep,Grand Cherokee L,67105.0,Gasoline,Automatic,Overland,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,36600.0,Hybrid,Automatic,N Line,All-wheel Drive,1
+BMW,i4 Gran Coupe,72435.0,Electric,1-Speed Automatic,xDrive40,All-wheel Drive,1
+Mazda,CX-90 PHEV,50955.0,PHEV Hybrid Fuel,Automatic,Preferred,All-wheel Drive,1
+Hyundai,Santa Cruz,40434.0,Gasoline,8-Speed Automatic,2.5T NIGHT,All-wheel Drive,1
+Kia,Sportage,30740.0,Gasoline,8-Speed Automatic,EX,Front-wheel Drive,1
+Mercedes-Benz,Sprinter 2500,66902.0,Diesel,Automatic,Crew 144 WB,Rear-wheel Drive,1
+Hyundai,IONIQ 5,59255.0,Electric,1-Speed Automatic,Limited,All-wheel Drive,1
+Cadillac,LYRIQ,75090.0,Electric,Automatic,Sport w/1SJ,Rear-wheel Drive,1
+Chevrolet,Silverado 1500,54190.0,Gasoline,1-Speed Automatic,Custom Trail Boss,Four-wheel Drive,1
+GMC,Sierra 2500,47763.0,Gasoline,1-Speed Automatic,Pro,Rear-wheel Drive,1
+RAM,3500,68600.0,Diesel,6-Speed Automatic,Tradesman,Four-wheel Drive,1
+Hyundai,IONIQ 6,53820.0,Electric,Automatic,SE,All-wheel Drive,2
+Mercedes-Benz,GLE 450,74290.0,Gasoline,9-Speed Automatic,4MATIC,All-wheel Drive,1
+Jeep,Compass,33668.0,Gasoline,8-Speed Automatic,Latitude Lux,Four-wheel Drive,1
+Dodge,Durango,47785.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Jeep,Wagoneer,89595.0,Gasoline,8-Speed Automatic,Series III,Four-wheel Drive,1
+Ford,Mustang Mach-E,55485.0,Electric,1-Speed Automatic,Premium,All-wheel Drive,1
+Dodge,Hornet,43524.0,Gasoline,1-Speed Automatic,Hornet R/T Eawd,All-wheel Drive,1
+Ford,Escape,33071.0,Gasoline,8-Speed Automatic,Active,All-wheel Drive,1
+Hyundai,Santa Cruz,30490.0,Gasoline,8-Speed Automatic,2.5L SE,All-wheel Drive,1
+RAM,ProMaster 3500,61006.0,Gasoline,9-Speed Automatic,High Roof,Front-wheel Drive,2
+Hyundai,Santa Cruz,43684.0,Gasoline,8-Speed Automatic,2.5T Limited,All-wheel Drive,1
+Chrysler,Voyager,38954.0,Gasoline,9-Speed Automatic,LX,Front-wheel Drive,1
+GMC,Sierra 1500,59466.0,Gasoline,1-Speed Automatic,SLT,Four-wheel Drive,1
+Ford,Transit Connect,38036.0,Gasoline,8-Speed Automatic,XLT,Front-wheel Drive,2
+Toyota,Tundra Hybrid,60573.0,Hybrid,1-Speed Automatic,Limited,Four-wheel Drive,1
+RAM,2500,59620.0,Gasoline,Automatic,Tradesman,Four-wheel Drive,1
+Jeep,Compass,28860.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Hyundai,IONIQ 5,42295.0,Electric,Automatic,SEL,Rear-wheel Drive,1
+Jeep,Compass,41230.0,Gasoline,Automatic,Trailhawk,Four-wheel Drive,1
+Jeep,Gladiator,54210.0,Gasoline,8-Speed Automatic,Rubicon,Four-wheel Drive,2
+Hyundai,IONIQ 5,44565.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Hyundai,Kona,29111.0,Gasoline,Automatic CVT,SEL,Front-wheel Drive,1
+GMC,Sierra 2500,96860.0,Diesel,1-Speed Automatic,Denali Ultimate,Four-wheel Drive,1
+Kia,Sportage,34635.0,Gasoline,8-Speed Automatic,SX,Front-wheel Drive,1
+Ford,Maverick,41045.0,Gasoline,8-Speed Automatic,Lariat,All-wheel Drive,1
+Jeep,Wagoneer,79487.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Volkswagen,Jetta,23160.0,Gasoline,8-Speed Automatic,1.4T S,Front-wheel Drive,1
+Jeep,Wagoneer L,74366.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,40979.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+Ford,Edge,39025.0,Gasoline,Automatic,SE,All-wheel Drive,1
+Hyundai,IONIQ 5,45269.0,Electric,1-Speed Automatic,SEL,All-wheel Drive,1
+Jeep,Wagoneer L,81160.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Nissan,Versa,21195.0,Gasoline,CVT,1.6 SV,Front-wheel Drive,1
+Jeep,Grand Cherokee 4xe,63440.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Hyundai,Kona,33969.0,Gasoline,8-Speed Automatic,Limited,Front-wheel Drive,1
+Ford,Edge,38598.0,Gasoline,Automatic,SEL,All-wheel Drive,1
+GMC,Sierra 1500,84405.0,Gasoline,1-Speed Automatic,Denali Ultimate,Four-wheel Drive,1
+Jeep,Grand Cherokee,52810.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Chevrolet,Silverado 1500,63145.0,Diesel,1-Speed Automatic,LT Trail Boss,Four-wheel Drive,1
+GMC,Terrain,34940.0,Gasoline,9-Speed Automatic,AT4,All-wheel Drive,1
+Dodge,Hornet,37498.0,Gasoline,Automatic,GT AWD,All-wheel Drive,1
+RAM,3500,58950.0,Diesel,6-Speed Automatic,Tradesman,Four-wheel Drive,1
+Volkswagen,Taos,32751.0,Gasoline,7-Speed Automatic,1.5T SE,All-wheel Drive,1
+Dodge,Charger,41890.0,Gasoline,8-Speed Automatic,SXT,All-wheel Drive,2
+Jeep,Compass,38000.0,Gasoline,Automatic,Trailhawk,Four-wheel Drive,1
+Ford,Transit-350,57000.0,Gasoline,1-Speed Automatic,Base,Rear-wheel Drive,2
+Jeep,Grand Cherokee L,48201.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Audi,Q5 e,73360.0,Gasoline,7-Speed Automatic,55 Premium Plus,All-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+RAM,3500,64111.0,Diesel,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Kia,Sorento,33590.0,Gasoline,8-Speed Automatic,LX,Front-wheel Drive,1
+INFINITI,QX50,46855.0,Gasoline,Variable,LUXE,Front-wheel Drive,1
+Jeep,Grand Cherokee L,58779.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Subaru,Outback,32490.0,Gasoline,Automatic CVT,Premium,All-wheel Drive,1
+Ford,Edge,45995.0,Gasoline,8-Speed Automatic,Titanium,All-wheel Drive,1
+Jeep,Wagoneer,73999.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Nissan,Pathfinder,42155.0,Gasoline,Automatic,SL 4WD,Four-wheel Drive,1
+Jeep,Grand Cherokee,47030.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Jeep,Grand Cherokee,42425.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Dodge,Hornet,42436.0,Gasoline,9-Speed Automatic,GT Plus,All-wheel Drive,1
+Jeep,Grand Cherokee L,56015.0,Gasoline,Automatic,Limited,Four-wheel Drive,1
+Acura,MDX,52350.0,Gasoline,1-Speed Automatic,Base,All-wheel Drive,1
+Kia,EV6,41991.0,Electric,Automatic,Wind,All-wheel Drive,1
+Honda,HR-V,25950.0,Gasoline,Automatic,LX,Front-wheel Drive,1
+Honda,Passport,46350.0,Gasoline,9-Speed Automatic,TrailSport,All-wheel Drive,1
+Honda,HR-V,27450.0,Gasoline,Automatic,LX,All-wheel Drive,1
+Kia,Sportage,33375.0,Gasoline,8-Speed Automatic,EX,All-wheel Drive,1
+Kia,Sportage,39935.0,Gasoline,8-Speed Automatic,X-Pro Prestige,All-wheel Drive,1
+Kia,Sportage,35435.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,56119.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Dodge,Hornet,36810.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Dodge,Hornet,35585.0,Gasoline,Automatic,GT AWD,All-wheel Drive,1
+Hyundai,Santa Cruz,40375.0,Gasoline,8-Speed Automatic,2.5T NIGHT,All-wheel Drive,1
+Jeep,Compass,35835.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,41720.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+Hyundai,Tucson Hybrid,41720.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,62255.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Audi,A5 Sportback,57835.0,Gasoline,7-Speed Automatic,S line Premium Plus,All-wheel Drive,1
+Jeep,Grand Wagoneer,108537.0,Gasoline,8-Speed Automatic,Series III,Four-wheel Drive,1
+RAM,3500,63609.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Ford,Transit-250,64025.0,Gasoline,Automatic,Base,All-wheel Drive,1
+RAM,3500,86420.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+RAM,2500,77525.0,Gasoline,8-Speed Automatic,Big Horn,Four-wheel Drive,1
+Dodge,Hornet,36195.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Kia,Sportage,35040.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Jeep,Wagoneer,64434.0,Gasoline,Automatic,Base,Four-wheel Drive,1
+RAM,3500,67422.0,Diesel,6-Speed Automatic,Big Horn,Four-wheel Drive,1
+Cadillac,LYRIQ,60310.0,Electric,1-Speed Automatic,Luxury,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,61179.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,67650.0,Hybrid,8-Speed Automatic,Trailhawk,Four-wheel Drive,2
+Mercedes-Benz,Sprinter 2500,61276.0,Diesel,9-Speed Automatic,144 WB Standard Roof Crew,Rear-wheel Drive,1
+BMW,X7,94895.0,Gasoline,8-Speed Automatic,xDrive40i,All-wheel Drive,1
+Kia,Seltos,31490.0,Gasoline,8-Speed Automatic,SX,All-wheel Drive,1
+Ford,Expedition,70115.0,Gasoline,1-Speed Automatic,XLT,Four-wheel Drive,1
+Jeep,Wagoneer L,77522.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,78655.0,Hybrid,8-Speed Automatic,Overland,Four-wheel Drive,1
+Nissan,Kicks,24105.0,Gasoline,Automatic CVT,SR,Front-wheel Drive,1
+Buick,Envista,28000.0,Gasoline,6-Speed Automatic,Sport Touring,Front-wheel Drive,1
+Kia,Sportage,33390.0,Gasoline,8-Speed Automatic,SX,Front-wheel Drive,1
+Jeep,Grand Cherokee 4xe,60884.0,Hybrid,8-Speed Automatic,Trailhawk,Four-wheel Drive,1
+Dodge,Hornet,40880.0,Gasoline,Automatic,GT AWD,All-wheel Drive,1
+Dodge,Hornet,39555.0,Gasoline,9-Speed Automatic,GT,All-wheel Drive,1
+Ford,Bronco Sport,35077.0,Gasoline,Automatic,Free Wheeling,Four-wheel Drive,1
+Cadillac,XT5,47290.0,Gasoline,Automatic,Luxury,All-wheel Drive,1
+Jeep,Grand Cherokee,44759.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Chevrolet,Trax,26190.0,Gasoline,Automatic,ACTIV,Front-wheel Drive,0
+Mercedes-Benz,GLA 250,53710.0,Gasoline,8-Speed Automatic,Base 4MATIC,All-wheel Drive,1
+Ford,Expedition,86490.0,Gasoline,1-Speed Automatic,King Ranch,Four-wheel Drive,1
+RAM,3500,84701.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+BMW,X7,88695.0,Gasoline,8-Speed Automatic,xDrive40i,All-wheel Drive,1
+Kia,Sportage,33573.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Mercedes-Benz,Sprinter 2500,69017.0,Diesel,9-Speed Automatic,144 WB Standard Roof Passenger,Rear-wheel Drive,1
+RAM,3500,60925.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Cadillac,LYRIQ,73110.0,Electric,1-Speed Automatic,Luxury,All-wheel Drive,1
+Kia,Telluride,51965.0,Gasoline,Automatic,SX X-Pro,All-wheel Drive,1
+Jeep,Wagoneer L,74366.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+RAM,3500,63670.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Ford,Bronco Sport,35010.0,Gasoline,8-Speed Automatic,Big Bend,Four-wheel Drive,1
+Mazda,CX-90,49900.0,Gasoline,8-Speed Automatic,3.3 Turbo Premium Plus,All-wheel Drive,1
+Mercedes-Benz,GLE 450,75925.0,Gasoline,9-Speed Automatic,4MATIC,All-wheel Drive,1
+RAM,3500,93303.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+Mazda,CX-90 PHEV,58049.0,PHEV Hybrid Fuel,Automatic,Premium Plus,All-wheel Drive,1
+Jeep,Grand Cherokee L,49260.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Ford,Transit-150,52640.0,E85 Flex Fuel,1-Speed Automatic,Base,Rear-wheel Drive,1
+Kia,Sportage,38040.0,Gasoline,8-Speed Automatic,SX-Prestige,All-wheel Drive,1
+Hyundai,Kona,32491.0,Gasoline,8-Speed Automatic,Limited,Front-wheel Drive,1
+Mercedes-Benz,GLA 250,51725.0,Gasoline,8-Speed Automatic,Base 4MATIC,All-wheel Drive,1
+Chevrolet,Silverado 1500,58720.0,Diesel,Automatic,LT,Four-wheel Drive,1
+Genesis,Electrified GV70,60490.0,Electric,1-Speed Automatic,Advanced,All-wheel Drive,1
+BMW,i7,195895.0,Electric,1-Speed Automatic,M70,All-wheel Drive,1
+Hyundai,Tucson Hybrid,37215.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Kia,Sportage,32995.0,Gasoline,8-Speed Automatic,SX,Front-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Mazda,CX-90,54800.0,Gasoline,8-Speed Automatic,3.3 Turbo S Premium,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,49285.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+Dodge,Hornet,49895.0,Gasoline,1-Speed Automatic,Hornet R/T Plus Eawd,All-wheel Drive,1
+Jeep,Compass,28860.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,63440.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Honda,CR-V,38305.0,Gasoline,Automatic CVT,EX-L,All-wheel Drive,0
+Dodge,Durango,57486.0,Gasoline,8-Speed Automatic,R/T,All-wheel Drive,1
+Dodge,Hornet,40085.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Volvo,S60 Recharge Plug-In Hybrid,57545.0,Hybrid,8-Speed Automatic,T8 Plus Dark Theme,All-wheel Drive,1
+Ford,Transit-350,74391.0,Gasoline,Automatic,Base,All-wheel Drive,1
+Kia,Sorento,44876.0,Gasoline,Automatic,EX,All-wheel Drive,2
+RAM,3500,64965.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Ford,Escape,38481.0,Hybrid,Automatic,Platinum,All-wheel Drive,1
+RAM,3500,77085.0,Diesel,Automatic,Laramie,Four-wheel Drive,1
+Mazda,CX-90 PHEV,58825.0,Gasoline,8-Speed Automatic,Base,All-wheel Drive,1
+Nissan,Kicks,26335.0,Gasoline,Automatic CVT,SR,Front-wheel Drive,1
+Dodge,Hornet,49720.0,Gasoline,1-Speed Automatic,Hornet R/T Plus Eawd,All-wheel Drive,1
+Chevrolet,Silverado 1500,50565.0,Gasoline,8-Speed Automatic,Custom,Four-wheel Drive,1
+Chevrolet,Equinox,38717.0,Gasoline,6-Speed Automatic,RS,All-wheel Drive,1
+Cadillac,XT6,50415.0,Gasoline,9-Speed Automatic,Luxury FWD,Front-wheel Drive,1
+Ford,Transit-250,50486.0,E85 Flex Fuel,1-Speed Automatic,148 WB Medium Roof Cargo,Rear-wheel Drive,1
+Volkswagen,Taos,32406.0,Gasoline,8-Speed Automatic,1.5T SE,Front-wheel Drive,1
+Kia,Sportage,40250.0,Gasoline,8-Speed Automatic,X-Pro Prestige,All-wheel Drive,1
+Dodge,Durango,47340.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+Subaru,Impreza,29068.0,Gasoline,Automatic CVT,Sport,All-wheel Drive,1
+Mazda,CX-70,54620.0,Gasoline,8-Speed Automatic,3.3 Turbo S Premium,All-wheel Drive,0
+Chrysler,Voyager,38954.0,Gasoline,9-Speed Automatic,LX,Front-wheel Drive,1
+Jeep,Grand Cherokee,49842.0,Gasoline,8-Speed Automatic,Limited,Four-wheel Drive,1
+Nissan,Murano,46510.0,Gasoline,Automatic CVT,SL,All-wheel Drive,1
+Hyundai,Tucson Hybrid,40933.0,Hybrid,6-Speed Automatic,Limited,All-wheel Drive,1
+BMW,X3,49395.0,Gasoline,8-Speed Automatic,sDrive30i,Rear-wheel Drive,1
+Jeep,Compass,28265.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+RAM,2500,53750.0,Gasoline,Automatic,Tradesman Regular Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Subaru,Outback,39822.0,Gasoline,Automatic CVT,Limited,All-wheel Drive,1
+Jeep,Wagoneer L,88135.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Ford,Escape,30798.0,Gasoline,Automatic,ST-Line,Front-wheel Drive,1
+Volvo,C40 Recharge Pure Electric,62240.0,Electric,Automatic,Twin Ultimate,All-wheel Drive,2
+Jeep,Compass,38300.0,Gasoline,Automatic,Trailhawk,Four-wheel Drive,2
+Volkswagen,Taos,25311.0,Gasoline,4-Speed Automatic,1.5T S,All-wheel Drive,1
+Jeep,Grand Cherokee L,49201.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Volkswagen,Taos,29386.0,Gasoline,4-Speed Automatic,1.5T SE,All-wheel Drive,1
+Jeep,Wagoneer L,72835.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,2
+Volkswagen,Taos,28994.0,Gasoline,4-Speed Automatic,1.5T SE,All-wheel Drive,1
+Dodge,Hornet,49895.0,Gasoline,1-Speed Automatic,Hornet R/T Plus Eawd,All-wheel Drive,1
+Hyundai,Tucson Hybrid,36280.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Ford,Expedition,80374.0,Gasoline,1-Speed Automatic,Limited,Four-wheel Drive,1
+RAM,ProMaster 1500,51380.0,Gasoline,9-Speed Automatic,Low Roof,Front-wheel Drive,1
+Dodge,Hornet,52180.0,Gasoline,1-Speed Automatic,Hornet R/T Plus Eawd,All-wheel Drive,1
+Volkswagen,Taos,28998.0,Gasoline,4-Speed Automatic,1.5T SE,All-wheel Drive,1
+Nissan,Kicks,24979.0,Gasoline,CVT with Xtronic,SV,Front-wheel Drive,1
+Hyundai,IONIQ 5,38201.0,Electric,Automatic,SE,Rear-wheel Drive,1
+RAM,ProMaster 2500,50245.0,Gasoline,Automatic,High Roof,Front-wheel Drive,2
+Kia,EV6,41528.0,Electric,Automatic,Wind,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,49082.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+Subaru,Impreza,32098.0,Gasoline,Automatic CVT,RS,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,53791.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+Jeep,Grand Cherokee L,49139.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Ford,Expedition,72135.0,Gasoline,1-Speed Automatic,XLT,Four-wheel Drive,1
+Honda,CR-V,37965.0,Gasoline,Automatic CVT,EX-L,All-wheel Drive,1
+Kia,Soul,21000.0,Gasoline,Automatic,S,Front-wheel Drive,1
+Hyundai,Tucson Hybrid,37335.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Kia,Sportage,33785.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Chrysler,300,35994.0,Gasoline,8-Speed Automatic,Touring L,Rear-wheel Drive,2
+GMC,Sierra 2500,48268.0,Gasoline,1-Speed Automatic,Pro,Rear-wheel Drive,1
+Dodge,Hornet,45141.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Volkswagen,Taos,28098.0,Gasoline,7-Speed Automatic,1.5T S,All-wheel Drive,1
+Nissan,Kicks,24430.0,Gasoline,Automatic CVT,SR,Front-wheel Drive,1
+Nissan,Kicks,24430.0,Gasoline,Automatic CVT,SR,Front-wheel Drive,1
+Nissan,Kicks,25080.0,Gasoline,Automatic CVT,SR,Front-wheel Drive,1
+Mercedes-Benz,AMG C 43,73960.0,Gasoline,9-Speed Automatic,Base 4MATIC,All-wheel Drive,1
+Jeep,Grand Cherokee L,46659.0,Gasoline,8-Speed Automatic,Laredo,Four-wheel Drive,1
+Dodge,Hornet,43490.0,Hybrid,6-Speed Automatic,R/T,All-wheel Drive,1
+Dodge,Durango,47280.0,Gasoline,8-Speed Automatic,Pursuit,All-wheel Drive,2
+RAM,3500,80927.0,Diesel,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Four-wheel Drive,1
+Chevrolet,Equinox,33977.0,Gasoline,6-Speed Automatic,1LT,All-wheel Drive,1
+Kia,Sportage,35795.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Ford,Maverick,36550.0,Gasoline,8-Speed Automatic,XLT,All-wheel Drive,1
+Hyundai,Tucson Hybrid,37805.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Jeep,Wagoneer,74625.0,Gasoline,8-Speed Automatic,Series II,Four-wheel Drive,1
+Kia,Sportage,35400.0,Gasoline,8-Speed Automatic,X-Line,All-wheel Drive,1
+Dodge,Hornet,43613.0,Hybrid,6-Speed Automatic,R/T Plus,All-wheel Drive,1
+Jeep,Grand Cherokee L,49836.0,Gasoline,Automatic,Altitude,Four-wheel Drive,1
+Hyundai,Kona,27555.0,Gasoline,Automatic CVT,SE,All-wheel Drive,1
+Ford,Escape,29305.0,Gasoline,8-Speed Automatic,Active,Front-wheel Drive,1
+Ford,Edge,40015.0,Gasoline,8-Speed Automatic,SE,All-wheel Drive,1
+Kia,Sportage,35195.0,Gasoline,8-Speed Automatic,SX-Prestige,Front-wheel Drive,1
+Kia,EV6,43439.0,Electric,Automatic,Wind,All-wheel Drive,1
+Ford,Bronco Sport,35615.0,Gasoline,8-Speed Automatic,Outer Banks,Four-wheel Drive,1
+Kia,Forte,21070.0,Gasoline,Automatic CVT,LXS,Front-wheel Drive,1
+Nissan,Versa,20842.0,Gasoline,Automatic CVT,S,Front-wheel Drive,1
+Ford,Explorer,43685.0,Gasoline,1-Speed Automatic,XLT,Rear-wheel Drive,1
+Jeep,Wagoneer L,66770.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+RAM,ProMaster 1500,48822.0,Gasoline,9-Speed Automatic,Low Roof,Front-wheel Drive,1
+Hyundai,Tucson Hybrid,37220.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,67164.0,Hybrid,8-Speed Automatic,Trailhawk,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,37309.0,Hybrid,6-Speed Automatic,SEL Convenience,All-wheel Drive,1
+Jeep,Grand Cherokee 4xe,77314.0,Hybrid,8-Speed Automatic,Overland,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,70312.0,Hybrid,8-Speed Automatic,Overland,Four-wheel Drive,1
+Jeep,Compass,36331.0,Gasoline,8-Speed Automatic,Latitude,Four-wheel Drive,1
+Jeep,Grand Cherokee 4xe,62343.0,Hybrid,8-Speed Automatic,Base,Four-wheel Drive,1
+RAM,3500,67446.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Hyundai,Tucson Hybrid,40835.0,Hybrid,Automatic,Limited,All-wheel Drive,1
+Jeep,Gladiator,54620.0,Gasoline,Automatic,Sport,Four-wheel Drive,1
+Jeep,Grand Cherokee L,59674.0,Gasoline,Automatic,Limited,Four-wheel Drive,1
+RAM,2500,69315.0,Diesel,Automatic,Tradesman,Four-wheel Drive,1
+Mercedes-Benz,Sprinter 2500,59037.0,Diesel,9-Speed Automatic,Standard Roof,Rear-wheel Drive,1
+Jeep,Wagoneer,69085.0,Gasoline,8-Speed Automatic,Base,Four-wheel Drive,1
+Nissan,Murano,43495.0,Gasoline,Automatic,SV Intelligent AWD,All-wheel Drive,1
+Chevrolet,Silverado 2500,48995.0,Gasoline,Automatic,WT,Rear-wheel Drive,1
